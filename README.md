@@ -1,3 +1,1 @@
-Phylogenetic tree project made with java. The program takes in input fasta sequences and gives out a text phylogenetic tree built with either UPGMA or NJ method, to the users choice.
-
-The main program "Project" in the "Main" package, takes only in argument the fasta files paths.
+Phylogenetic tree project made with java. The main program "Project" in found in the "Main" package. It takes in input only fasta files paths and gives out a text phylogenetic tree built with either UPGMA or NJ method, to the users choice.
