@@ -1,0 +1,89 @@
+>sp|P05881|ENV_HV1ZH Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group M subtype A (isolate Z321) OX=11692 GN=env PE=3 SV=1
+------------------------------------------------------gattac
+ccaggcgtgcccgaaagtgagctttgaaccgattccgattcattattgcgcgccggcggg
+ctttgcgattctgaaatgccgcgatgaagaatttgaaggcaaaggcccgtgccgcaacgt
+gagcaccgtgca---gtgcacccatggcattcgcccggtggtgagcacccagctgctgct
+gaacggcagcctggcggaaggcgaagtgcgcattcgcagcgaaaactttaccgataacgc
+gaaaattattattgtgcagctggtgaaaccggtgaacattacctgcatgcgcccgaac--
+-------------------------------------
+
+>sp|P05877|ENV_HV1MN Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group M subtype B (isolate MN) OX=11696 GN=env PE=1 SV=1
+---------------------------------------ctgcaacaccagcgtgattac
+ccaggcgtgcccgaaaattagctttgaaccgattccgattcattattgcgcgccggcggg
+ctttgcgattctgaaatgcaacgataaaaaatttagcggcaaaggcagctgcaaaaacgt
+gagcaccgtgca---gtgcacccatggcattcgcccggtggtgagcacccagctgctgct
+gaacggcagcctggcggaagaagaagtggtgattcgcagcgaaaactttaccgataacgc
+gaaaaccattattgtgcatctgaacgaaagcgtgcagattaac-----------------
+-------------------------------------
+
+>sp|O12164|ENV_HV192 Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group M subtype C (isolate 92BR025) OX=388812 GN=env PE=3 SV=1
+------------------------------------------------------------
+ccaggcgtgcccgaaagtgagctttgatccgattccgattcattattgcgcgccggcggg
+ctatgcgattctgaaatgcaacaacaaaacctttaacggcaccggcccgtgcaacaacgt
+gagcaccattca---gtgcacccatggcaccaaaccggtggtgagcacccagctgctgct
+gaacggcagcctggcggaagaagaaattattattcgcagcaaaaacctgaccgataacgt
+gaaaaccattattgtgcatctgaacgaaagcgtggaaattaactgcacccgcccgaacaa
+caac---------------------------------
+
+>sp|P04581|ENV_HV1EL Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group M subtype D (isolate ELI) OX=11689 GN=env PE=3 SV=1
+---------------------------------------------------cgcgattac
+ccaggcgtgcccgaaagtgagctttgaaccgattccgattcattattgcgcgccggcggg
+ctttgcgattctgaaatgccgcgataaaaaatttaacggcaccggcccgtgcaccaacgt
+gagcaccgtgca---gtgcacccatggcattcgcccggtggtgagcacccagctgctgct
+gaacggcagcctggcggaagaagaagtgattattcgcagcgaaaacctgaccaacaacgc
+gaaaaacattattgcgcatctgaacgaaagcgtgaaaattacctgcgcgcgcccg-----
+-------------------------------------
+
+>sp|Q9IDV2|ENV_HV1YB Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group N (isolate YBF106) OX=388819 GN=env PE=3 SV=1
+------------------------------------------------------------
+------------------cacctttgaaccgattccgattcattattgcgcgccgccggg
+ctttgcgattatgaaatgcaacgaaggcaactttagcggcaacggcagctgcaccaacgt
+gagcaccgtgca---gtgcacccatggcattaaaccggtgattagcacccagctgattct
+gaacggcagcctggataccgatgatattgtgattcgccatcatggcggcaacc-------
+--------tgctggtgcagtggaacgaaaccgtgagcattaactgcacccgcccgggcaa
+caacaccggcggccaggtgcagattggcccggcgatg
+
+>sp|Q79670|ENV_HV1MV Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 1 group O (isolate MVP5180) OX=388816 GN=env PE=3 SV=1
+------------------------------------------------------tattaa
+acaggcgtgcccgaaagtgagctttgaaccgattccgattcattattgcgcgccgaccgg
+ctatgcgatttttaaatgcaacgataccgattttaacggcaccggcctgtgccataacat
+tagcgtggtgac---ctgcacccatggcattaaaccgaccgtgagcacccagctgattct
+gaacggcaccctgagccgcgaaaaaattcgcattatgggcaaaaacattaccgaaagcgc
+gaaaaacattattgtgaccctgaacaccccgattaacatgacctgcattcgcgaaggc--
+-------------------------------------
+
+>sp|P20872|ENV_HV2ST Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 2 subtype A (isolate ST) OX=11721 GN=env PE=1 SV=2
+---------------------------------------------caccagcgtgattac
+cgaaagctgcgataaacattattgggataccatgcgctttcgctattgcgcgccgccggg
+ctttgcgctgctgcgctgcaacgataccaactatagcggctttgaaccgaactgcagcaa
+agtggtggcggcgacctgcacccgcatgatggaaacccagaccagcacctggtttggctt
+taacggcacccgcgcggaaaaccgcacctatatttattggcatggcc---gcgataaccg
+caccattattagcctgaacaaattttataacctgaccgtgcattgcaaa-----------
+-------------------------------------
+
+>sp|P15831|ENV_HV2D2 Envelope glycoprotein gp160 OS=Human immunodeficiency virus type 2 subtype B (isolate D205) OX=11716 GN=env PE=3 SV=2
+---------------------------ctatattcgcacctgcaacaccaccattattca
+ggaaagctgcgataaacattattgggatagcctgcgctttcgctattgcgcgccgccggg
+cttttttctgctgcgctgcaacgataccaactatagcggctttatgccgaactgcagcaa
+agtggtggcgagcagctgcacccgcatgatggaaacccagagcagcacctggtttggctt
+taacggcacccgcgcggaaaaccgcacctatatttattggcatgaaa---aagataaccg
+caccattattagcctgaacacctattataac-----------------------------
+-------------------------------------
+
+>sp|P05885|ENV_SIVM1 Envelope glycoprotein gp160 OS=Simian immunodeficiency virus (isolate Mm142-83) OX=11733 GN=env PE=3 SV=1
+caacagcaccggcaacgaaagccgctgctatatgaaccattgcaacaccagcgtgattca
+ggaatgctgcgataaagattattgggatgcgattcgctgccgctattgcgcgccgccggg
+ctatgcgctgctgcgctgcaacgataccaactatagcggctttatgccgaactgcagcaa
+agtggtggtgagcagctgcacccgcatgatggaaacccagaccagcacctggtttcgctt
+taacggcacccgcgcggaaaaccgcacctatatttattggcatggcc---gcgataaccg
+cacc--------------------------------------------------------
+-------------------------------------
+
+>sp|Q8AIH5|ENV_SIVTN Envelope glycoprotein gp160 OS=Simian immunodeficiency virus (isolate TAN1) OX=388910 PE=3 SV=1
+------------------------------------------------------------
+---ggaatgcgataaaagcacctttgaaccgattccgattcgctattgcgcgccggcggg
+ctttgcgctgctgaaatgccgcgatcagaactttaccggcaaaggccagtgcagcaacgt
+gagcgtggtgca---ttgcacccatggcatttatccgatgattgcgaccgcgctgcatct
+gaacggcagcctggaagaagaagaaaccaaagcgtattttgtgaacaccagcgtgaacac
+---cccgctgctggtgaaatttaacgtgagcattaacctgacctgcgaacgcaccggcaa
+caacacccgc---------------------------

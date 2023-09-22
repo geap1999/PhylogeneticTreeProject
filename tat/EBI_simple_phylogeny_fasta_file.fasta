@@ -1,0 +1,49 @@
+>sp|P12512|TAT_HV1ZH Protein Tat (Fragment) OS=Human immunodeficiency virus type 1 group M subtype A (isolate Z321) OX=11692 PE=3 SV=1
+------------------------------------------------------------
+-----------------------------------------PLPT-TRGNPTGPKESKKE
+VESKTETDP--FAW----------------------------------
+
+>sp|P05905|TAT_HV1MN Protein Tat OS=Human immunodeficiency virus type 1 group M subtype B (isolate MN) OX=11696 GN=tat PE=3 SV=1
+----MEPVDPRLEPWKH-----------------P-------GSQPKTA-CTTCYCKKCC
+FHCQVCFTKKALGISYGRKKRRQRRRAPEDSQTHQVSLPKQPAPQ-FRGDPTGPKESKKK
+VERETETHP--VD-----------------------------------
+
+>sp|O12161|TAT_HV192 Protein Tat OS=Human immunodeficiency virus type 1 group M subtype C (isolate 92BR025) OX=388812 GN=tat PE=3 SV=1
+----MEPVDPNLEPWNH-----------------P-------GSQPKTA-CNNCYCKRCS
+YHCLVCFQTKGLGISYGRKKRRQRRSAPPSSEDHQNPIPKQPLPQ-TRGDQTGSEESKKK
+VESKTETDP--FD-----------------------------------
+
+>sp|P04611|TAT_HV1EL Protein Tat OS=Human immunodeficiency virus type 1 group M subtype D (isolate ELI) OX=11689 GN=tat PE=3 SV=1
+----MDPVDPNLEPWNH-----------------P-------GSQPRTP-CNKCHCKKCC
+YHCPVCFLNKGLGISYGRKKRRQRRGPPQGGQAHQVPIPKQPSSQ-PRGDPTGPKEQKKK
+VESEAETDP---------------------------------------
+
+>sp|Q9IDV5|TAT_HV1YB Protein Tat OS=Human immunodeficiency virus type 1 group N (isolate YBF106) OX=388819 GN=tat PE=3 SV=1
+----MEPVDPRLEPWNH-----------------P-------GSQPKTA-CNKCYCKKCC
+YHCMCCFTKKGLGISYGRKKRSQRRRPPKSSKDHQDPIPEQPLSRQQPGDQTGQKKQKKA
+LEGKTEADP--CD-----------------------------------
+
+>sp|P0C1K2|TAT_HV1MV Protein Tat OS=Human immunodeficiency virus type 1 group O (isolate MVP5180) OX=388816 GN=tat PE=3 SV=1
+----MDPVDPEMPPWHH-----------------P-------GSKPQTP-CNNCYCKRCC
+YHCYVCFTKKGLGISHGRKKRRR-PAAAASYPDNKDPVPEQHTG----RKQKRQEEQEKK
+VEKETGPSGQPCHQDSCNSCTRISGQ----------------------
+
+>sp|P20880|TAT_HV2ST Protein Tat OS=Human immunodeficiency virus type 2 subtype A (isolate ST) OX=11721 GN=tat PE=1 SV=1
+METPLKAPEGSLGSYNEPSSCTSEQDAAAQGLVSPGDEILYQLYQPLEACDNKCYCKKCC
+YHCQMCFLNKGLGIWYERKGRRRRT--PKKTKAHSSSASDKSISTRT-GNSQPEKKQKKT
+LETALETIGGPGR-----------------------------------
+
+>sp|P15835|TAT_HV2D2 Protein Tat (Fragment) OS=Human immunodeficiency virus type 2 subtype B (isolate D205) OX=11716 GN=tat PE=3 SV=2
+MEIPLQEQESSLKSSNEPSSSTSEPVVNTQGLDNQGEEILSQLYRPLKACDNTCYCKKCC
+YHCQLCFLKKGLGICYDRSRRRSAK--RAKTT--APSAPDK-------------------
+------------------------------------------------
+
+>sp|P05911|TAT_SIVM1 Protein Tat OS=Simian immunodeficiency virus (isolate Mm142-83) OX=11733 GN=tat PE=3 SV=1
+METPLREQENSLESSNERSSYISEAAAAIPESANLGEEILSQLYRPLEACYNTCYCKKCC
+YHCQFCFLKKGLGISYEKSHRRRRT--PKKAKANTSSASNEPIPNRI-RLCQPKKAKKET
+VEAAVATAPGLGR-----------------------------------
+
+>sp|Q8AIH8|TAT_SIVTN Protein Tat OS=Simian immunodeficiency virus (isolate TAN1) OX=388910 PE=3 SV=1
+----MNPIDPQVAPWEH-----------------P-------GAAPETP-CTNCYCKKCC
+FHCPVCFTKKALGISYGRKRRGR-KSAVHS-TNNQDPVRQQSLPKRS-RIQNSQEESQEE
+VEAETTSGGRPRQQDSSVSSGRTSGTSSSGYTRPFKTSSGSSGSACKH
