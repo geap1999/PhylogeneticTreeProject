@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
 /**
- * The main program that checks if there are enough arguments, if the sequences are all different, that creates the main GUI and calls
+ * The main program that lets the users choose their fasta files, checks if there are enough arguments + if the sequences are all different and creates the main GUI and calls
  * each method depending on what button is clicked.
  * 
  */
