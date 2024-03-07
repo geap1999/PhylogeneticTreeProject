@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * Here is an example, when a sequence A and sequence B need to merge in the distance matrix, the distance 
  * matrix will update by calculating the new values with the new cluster at the index of A while all the values of B turn to 0.0 
  * indicating that it has merged with another sequence or cluster. When that happens the cluster count in index A goes up by 1. 
- * If it were to merge with another cluster instead of a sequence, the cluster count would go up by the number clusters in that cluster.
+ * If it were to merge with another cluster instead of a sequence, the cluster count would go up by the number of clusters in that cluster.
  * The same thing happens with the tree nodes. Tree Nodes merge together by joining a new tree node which will be put in index A.
  * The same process repeats itself until the complete tree is found in one of the indexes of the Clusters ArrayList. That cluster is
  * found by finding the index for the highest count of clusters in the clusterSize ArrayList.
